@@ -18,7 +18,9 @@
 
 ![Image of Outcomes Based on Goals](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
-##### The chart above can be used as a visualization of campaign success, failed, and canceled rates as they pertain to the set $ goal amount for a given camapign.
+##### The chart above can be used as a visualization of campaign success, failed, and canceled rates as they pertain to the set $ goal amount for a given camapign. In order to generate this chart I first needed to calculate the "Number Successful," "Number Failed," and "Number Canceled" columns, based on the project "outcome," the "goal" amount using the goal ranges provided, and the Subcategory "plays". Once these columns were generated, I then used the Sum () function to calculate the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column. From there I then was able to calculate the rates at which the outcomes occured.
+
+
 
 ### Challenges and Difficulties Encountered
 
