@@ -11,7 +11,7 @@
 ![Image of Theater Outcomes based on Launch Date](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ##### The chart above can be used as a visualization of outcomes for the theater category specifically broken out by month. 
-     -This chart was created by generating a pivot table with Month as the row lables, and the column labels being the outcomes. In order to have this pivot table correctly display the months I first needed to create an additional column within our data sheet in order to convert our date data into a readable format. By using the proper formulas within excel I was able to create a column that simply displayed the year in which the campaign occurred.
+   -This chart was created by generating a pivot table with Month as the row lables, and the column labels being the outcomes. In order to have this pivot table correctly display the months I first needed to create an additional column within our data sheet in order to convert our date data into a readable format. By using the proper formulas within excel I was able to create a column that simply displayed the year in which the campaign occurred.
 
 ### Analysis of Outcomes Based on Goal
 
