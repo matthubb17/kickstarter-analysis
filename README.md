@@ -36,8 +36,4 @@
   - The data for this project is limited as it is only a small amount of data for a set period of time. In order to have more reliable info you would most likely want to expand your dataset to look at data over a longer period of time. In addition, the number of countries that were include in this data set could be expanded.
 
 - What are some other possible tables and/or graphs that we could create?
-
-
-
-
-Recommend that Louise consider reducing her goal for her campaigns as a result of our detailed analysis within the attached report.
+  - One analysis that I think would be benificial to look at would be to analyze the relationship between the success rate and the quantiy of backers. This would help us to better understand if there is an impact to the outcome based on the size of the campaign.
