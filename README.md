@@ -12,7 +12,7 @@
 
 ### Analysis of Outcomes Based on Goal
 
-![Image of Outcomes Based on Goals](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+![Image of Outcomes Based on Goals]()
 
 ### Challenges and Difficulties Encountered
 
