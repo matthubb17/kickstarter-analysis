@@ -21,8 +21,8 @@
 ## Results:
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--- May was the most successful month to launch a Kickstarter campaign within the theater category.
--- December saw the fewest successful campaigns.
+  - May was the most successful month to launch a Kickstarter campaign within the theater category.
+  - December saw the fewest successful campaigns.
 
 
 - What can you conclude about the Outcomes based on Goals?
