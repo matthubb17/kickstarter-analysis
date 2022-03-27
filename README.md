@@ -10,6 +10,8 @@
 
 ![Image of Theater Outcomes based on Launch Date](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
+#### The chart above can be used as a visualization of outcomes for the theater category specifically broken out by month.
+
 ### Analysis of Outcomes Based on Goal
 
 ![Image of Outcomes Based on Goals](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
