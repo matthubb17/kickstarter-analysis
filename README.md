@@ -29,7 +29,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
   - You are more likley to have a successful campaign if you limit your goal to less than $5,000. While there are other ranges that show a relatively high rate of success, this data is lover volume.
-  - There are other factors at play here that are influencing success rate, as we do see fairly high success rates for $35,000 - $45,000.
+     - There are other factors at play here that are influencing success rate, as we do see fairly high success rates for $35,000 - $45,000.
 
 - What are some limitations of this dataset?
 
