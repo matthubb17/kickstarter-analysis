@@ -2,7 +2,7 @@
 
 ## Overview of Project: 
 
-### The purpose of this project was to analyze the downloaded Kickstarter data for Louise in order to help her to understand how previous kickstarter fundraising campagins have performed. I approached this analysis by taking a look at the performance as it related to launch date along with funding goal.
+#### The purpose of this project was to analyze the downloaded Kickstarter data for Louise in order to help her to understand how previous kickstarter fundraising campagins have performed. I approached this analysis by taking a look at the performance as it related to launch date along with funding goal.
 
 ## Analysis and Challenges:
 
