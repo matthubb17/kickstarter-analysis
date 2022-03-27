@@ -24,7 +24,7 @@
 
 ### Challenges and Difficulties Encountered
 
-#### One challenge that had to be navigated throughout this project was the format of the dates within the original dataset. By having to convert the format of the dates there was an additional step needed to be taken prior to analyzing the data. One other challenge throughout this project occurred when manualling entering various formulas within excel. I was able to alleviate most of the formual issues by properly using absolute references when needed in order to have an easier time with the formulas required for analysis.
+#### One challenge that had to be navigated throughout this project was the format of the dates within the original dataset. By having to convert the format of the dates there was an additional step needed to be taken prior to analyzing the data. One other challenge throughout this project occurred when entering various formulas within excel. I was able to alleviate most of the formual issues by properly using absolute references when needed in order to have an easier time with the formulas required for analysis.
 
 ## Results:
 
