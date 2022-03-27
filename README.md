@@ -33,7 +33,7 @@
 
 - What are some limitations of this dataset?
 
-  - The data for this project is limited as it is only a small amount of data for a set period of time. In order to have more reliable info you would most likely want to expand your dataset to look at data over a longer period of time. In addition, The numebr of countries that were include in this data set could be expanded.
+  - The data for this project is limited as it is only a small amount of data for a set period of time. In order to have more reliable info you would most likely want to expand your dataset to look at data over a longer period of time. In addition, The number of countries that were include in this data set could be expanded.
 
 - What are some other possible tables and/or graphs that we could create?
 
