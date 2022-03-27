@@ -16,6 +16,8 @@
 
 ![Image of Outcomes Based on Goals](https://github.com/matthubb17/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
+#### The chart above can be used as a visualization of campaign success, failed, and canceled rates as they pertain to the set $ goal amount for a given camapign.
+
 ### Challenges and Difficulties Encountered
 
 ## Results:
