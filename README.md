@@ -2,7 +2,7 @@
 
 ## Overview of Project: 
 
-#### Louise, an up and coming playwright, would like to set up a crowdfunding campaign to help fund her play "Fever". The purpose of this project was to analyze Kickstarter data for Louise in order to help her to understand how previous kickstarter fundraising campagins have performed. I approached this analysis by taking a look at the performance as it related to launch date along with funding goal.
+#### Louise, an up and coming playwright, would like to set up a crowdfunding campaign to help fund her play "Fever". The purpose of this project was to analyze Kickstarter data for Louise in order to help her to understand how previous kickstarter fundraising campagins have performed. Louise had anticipated a budget of $10,000 for her campaign. I approached this analysis by taking a look at the performance as it related to launch date along with funding goal.
 
 ## Analysis and Challenges:
 
